@@ -50,6 +50,7 @@
     "webpack-node-externals": "^1.6.0"
   },
   "dependencies": {
+    "cors": "^2.8.5",
     "dark-sky": "^1.1.5",
     "express": "^4.16.4",
     "redis": "^2.8.0"
