@@ -4,14 +4,6 @@
 ## Build Setup
 
 ``` bash
-# install dependencies
-npm install
-
-npm run dev
-
-# build for production
-npm run prod
-
-# run all tests
-npm test
+# Execute
+docker-compose up -d --build
 ```
